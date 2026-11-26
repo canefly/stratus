@@ -1,5 +1,7 @@
 # Stratus
 
+> **Note:** Stratus is the open-source release of a previously private desktop tool originally built for video editing workflows. It starts from a clean initial commit after stripping out private endpoints, test scripts, and internal branding. This codebase is legacy/unmaintained and released as-is under the MIT License.
+
 An open-source desktop script processing tool for video editors. Built with Tauri, React, TypeScript, and a Python `.docx` parsing sidecar, Stratus extracts A-Roll timestamps, normalizes embedded links, and tracks editing progress in a local SQLite database.
 
 ## Features
